@@ -19,3 +19,12 @@ Pandas
 NumPy
 Matplotlib / Seaborn
 Jupyter Notebook
+
+Project Workflow :
+
+Load customer support ticket data.
+Clean and preprocess text data.
+Perform sentiment analysis.
+Classify tickets based on issue type and priority.
+Generate visual reports and insights.
+Export results for business decision-making.
