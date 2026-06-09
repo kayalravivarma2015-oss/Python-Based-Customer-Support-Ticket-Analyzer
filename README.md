@@ -12,7 +12,8 @@ Data visualization and reporting
 CSV/Excel dataset support
 Performance metrics and trend analysis
 
-Technologies Used
+Technologies Used:
+
 Python
 Pandas
 NumPy
